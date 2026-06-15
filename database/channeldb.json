@@ -34,6 +34,16 @@
       "id": 6,
       "nombre": "Televen",
       "url": "https://app.televen.com/player/live?channelId=20000841&categoryId=0&categoryName=Banner&channelNumber=1"
+    },
+    {
+      "id": 7,
+      "nombre": "Telemundo",
+      "url": "https://radamel.icu/reproductor/univisiondeportes.php"
+    },
+    {
+      "id": 8,
+      "nombre": "Fox Sports",
+      "url": "https://junkieembeds.pages.dev/embed/fox-sports-1"
     }
   ]
 }
