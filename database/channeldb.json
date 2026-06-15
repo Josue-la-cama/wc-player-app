@@ -29,6 +29,11 @@
       "id": 5,
       "nombre": "DAZN",
       "url": "https://radamel.icu/reproductor/canal56.php"
+    },
+    {
+      "id": 6,
+      "nombre": "Televen",
+      "url": "https://app.televen.com/player/live?channelId=20000841&categoryId=0&categoryName=Banner&channelNumber=1"
     }
   ]
 }
