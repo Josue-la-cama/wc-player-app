@@ -3,12 +3,12 @@
     {
       "id": 0,
       "nombre": "DirecTV Sports",
-      "url": "https://la18hd.com/vivo/canal.php?stream=dsports"
+      "url": "https://la18hd.com/vivo/canal.php?stream=vtvplus"
     },
     {
       "id": 1,
       "nombre": "TyC Sports",
-      "url": "https://radamel.icu/reproductor/tycsports.php"
+      "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tycsportsarg.html"
     },
     {
       "id": 2,
@@ -22,8 +22,8 @@
     },
     {
       "id": 4,
-      "nombre": "CaracolTV",
-      "url": "https://radamel.icu/reproductor/carakol.php"
+      "nombre": "Telefe",
+      "url": "https://la18hd.com/vivo/canal.php?stream=telefe"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
     {
       "id": 7,
       "nombre": "Telemundo",
-      "url": "https://radamel.icu/reproductor/univisiondeportes.php"
+      "url": "https://la18hd.com/vivo/canal.php?stream=telemundo"
     },
     {
       "id": 8,
