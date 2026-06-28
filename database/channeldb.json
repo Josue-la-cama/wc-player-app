@@ -2,33 +2,33 @@
   "canales": [
     {
       "id": 0,
-      "nombre": "DirecTV Sports",
-      "url": "https://la18hd.com/vivo/canal.php?stream=vtvplus"
+      "nombre": "DSports",
+      "url": "https://embed.saohgdasregions.fun/embed2/directvsports.html"
     },
-    {
+   {
       "id": 1,
-      "nombre": "TyC Sports",
-      "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tycsportsarg.html"
+      "nombre": "Dsports +",
+      "url": "https://playcapos.com/update/canal-1.php"
     },
     {
       "id": 2,
-      "nombre": "Dsports 2",
-      "url": "https://sudamericaplay2.com/canal_8112/1dzportsplus.html"
+      "nombre": "DSports alt",
+      "url": "https://playcapos.com/update/canal-1-b.php"
     },
     {
       "id": 3,
-      "nombre": "TyC Sports 2",
-      "url": "https://embed.saohgdasregions.fun/embed/tycsports.html"
+      "nombre": "FOX SPORTS 1",
+      "url": "https://www.verfutbol.at/2015/03/ver-futbol-3_14.html"
     },
     {
       "id": 4,
-      "nombre": "Telefe",
-      "url": "https://la18hd.com/vivo/canal.php?stream=telefe"
+      "nombre": "DAZN",
+      "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php"
     },
     {
       "id": 5,
-      "nombre": "DAZN",
-      "url": "https://radamel.icu/reproductor/canal56.php"
+      "nombre": "DAZN 2",
+      "url": "https://playcapos.com/update/canal-2.php"      
     },
     {
       "id": 6,
@@ -37,13 +37,13 @@
     },
     {
       "id": 7,
-      "nombre": "Telemundo",
-      "url": "https://la18hd.com/vivo/canal.php?stream=telemundo"
+      "nombre": "TyC Sports",
+      "url": "https://playcapos.com/update/canal-4-b.php"
     },
     {
       "id": 8,
-      "nombre": "Dsports 3",
-      "url": "https://embed.saohgdasregions.fun/embed2/directvsports.html"
+      "nombre": "CaracolTV",
+      "url": "https:///sudamericaplay.sbs/canal_41/caracoltv41.php"
     }
   ]
 }
